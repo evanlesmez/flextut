@@ -26,16 +26,7 @@ body{
     background: #ccc;
 }
 
-.one{order:0;
-}
-
-.two{
-    order: 0;
-}
-
-.three{
-    order: 0;
-}
-.four{
-    order: 0;
-}
+.one{order:3;}
+.two{order: 2;}
+.three{order: 1;}
+.four{order: 0;}
